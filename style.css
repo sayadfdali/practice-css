@@ -1,4 +1,16 @@
 div{
     height : 100px;
+    width: 100px;
     background-color: slategray;
+    border: 2px;
+    border-style: solid;
+    border-color: magenta;
+}
+h1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px;
+    border-style: solid;
+    border-color: blue;
 }
