@@ -2,9 +2,10 @@ div{
     height : 100px;
     width: 100px;
     background-color: slategray;
-    border: 2px;
+    /*border: 2px;
     border-style: solid;
-    border-color: magenta;
+    border-color: magenta;*/
+    border: 2px solid magenta;
 }
 h1{
     height: 100px;
