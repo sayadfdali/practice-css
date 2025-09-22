@@ -1,21 +1,19 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: white;
-}
-#Navbar{
+div{
     height: 100px;
-   background-color: #0f1111;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
 }
-button{
-    background-color: #f08800;
+#box1{
+    background-color: rgba(0, 0, 255, 0.5);
 }
-#logo{
-    color: #f08800;
-    font-size: 25px;
+#box2{
+    background-color: rgba(0, 0, 255, 0.75);
 }
-a{
-    margin-right: 250px;
-    text-decoration: none;
+#box3{
+    background-color: rgba(0, 0, 255, 1);
+}
+#box4{
+    background-color: rgba(0, 0, 255, 0.25);
 }
