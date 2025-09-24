@@ -1,7 +1,33 @@
+#content{
+
+
+    height : 100px;
+
+
+    /* width: 100px; */
+
+
+    background-color: slategray;
+
+
+    border: 2px solid magenta;
+
+
+    text-align: center;
+
+
+    border-radius: 10px;
+
+
+    padding: 5px 5px 5px 5px;
+
+
+    margin: 10px 10px 10px 10px;
+
+
 *{
 
-
-    margin: 0;
+   margin: 0;
 
 
     padding: 0;
@@ -12,40 +38,17 @@
 
     color: white;
 
-
 }
 
 
 #Navbar{
 
 
-div{
-
     height: 100px;
 
 
    background-color: #0f1111;
 
-
-    width: 100px;
-
-
-    margin: 25px;
-
-
-    padding: 25px;
-
-
-    display: inline-block;
-
-
-}
-
-
-#box1{
-
-
-    background-color: rgba(0, 0, 255, 0.5);
 
 }
 
@@ -55,11 +58,6 @@ button{
 
     background-color: #f08800;
 
-
-#box2{
-
-
-    background-color: rgba(0, 0, 255, 0.75);
 
 }
 
@@ -73,11 +71,6 @@ button{
     font-size: 25px;
 
 
-#box3{
-
-
-    background-color: rgba(0, 0, 255, 1);
-
 }
 
 
@@ -90,14 +83,9 @@ a{
     text-decoration: none;
 
 
-#box4{
-
-
-    background-color: rgba(0, 0, 255, 0.25);
-
 }
 
 .contentbox{
     height: 100px;
     width: 100px;
-}
+}}
